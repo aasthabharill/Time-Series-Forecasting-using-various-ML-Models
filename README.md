@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-using-various-ML-Models
-This is a brief research review on the performance of different Machine Learning Models for the problem of time series forecasting by framing it as a supervised regression. 
+This is a brief research review on the performance of different Machine Learning Models for the problem of time series forecasting by framing it as a supervised regression. Please find the report uploaded under the name "Time Series Analysis - ML Proejct Report"
 
 ## Project Statement
 This was done as a project for the course BITS F464 Machine Learning which described the project statement as follows:
